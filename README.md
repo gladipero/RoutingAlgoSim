@@ -2,7 +2,7 @@ Routing Algorithms Simulator
 ============================
 
 Routing algorithms simulator with UI display that shows behaviour of different distributed routing
-algorithms for directed graphs. It also contain stress-testing code to test correctness of all
+algorithms for directed graphs. It also contains stress-testing code to test correctness of all
 presented algorithms.
 
 DFB: Distributed Ford-Bellman Algorithm
